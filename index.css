@@ -3,6 +3,7 @@
     height: 250px;
     width: 250px;
     border-radius: 50%;
+    
 }
 
 nav ul li{
@@ -10,11 +11,18 @@ nav ul li{
     display: inline-block;
     float: right;
     padding: 20px;
-    
+    font-size: x-large;
 }
 a{
     color: cornsilk;
 }
 body{
     background-color: black;
+    color: cornsilk;
+}
+
+#profile{
+    font-family: 'Sacramento', cursive;
+font-family: 'Monoton', cursive;
+color: cornsilk;
 }
