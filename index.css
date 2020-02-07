@@ -22,7 +22,16 @@ body{
 }
 
 #profile{
-    font-family: 'Sacramento', cursive;
+font-family: 'Sacramento', cursive;
 font-family: 'Monoton', cursive;
+font-family: 'Abril Fatface', cursive;
 color: cornsilk;
 }
+
+#about{
+    display: flex;
+    padding: 20px;
+}
+#Contacts{
+    text-align: center;
+    color: cornsilk;
