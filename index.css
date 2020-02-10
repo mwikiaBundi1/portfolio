@@ -9,7 +9,7 @@
 nav ul li{
     font-size: medium;
     display: inline-block;
-    float: right;
+    float:right;
     padding: 20px;
     font-size: x-large;
 }
@@ -27,11 +27,44 @@ font-family: 'Monoton', cursive;
 font-family: 'Abril Fatface', cursive;
 color: cornsilk;
 }
-
+/* 
 #about{
     display: flex;
     padding: 20px;
-}
+} */
 #Contacts{
     text-align: center;
     color: cornsilk;
+}
+#job-experience h3{
+     text-align: center;
+     background-repeat: no-repeat;
+     width: auto;
+    
+}
+li{
+    word-spacing: 3px;
+    font-size: large;
+    text-decoration: none;
+    color: indigo;
+    text-align: center;
+    list-style: none;
+}
+h3{
+    text-align: center;
+    color:gold;
+}
+#WhyCoding p{
+    text-align: center;
+}
+#Education{
+    text-align: center;
+}
+#Projects{
+    text-align: center;
+    color: cornsilk;
+}
+#cssTable td 
+{
+    text-align: center; 
+    vertical-align: middle;
